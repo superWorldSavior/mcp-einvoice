@@ -26,7 +26,7 @@ marchent avec n'importe quelle PA, grâce au pattern adapter.
 
 ```bash
 # 1. Cloner et configurer
-git clone https://github.com/Casys-AI/mcp-einvoice.git
+git clone https://github.com/superWorldSavior/mcp-einvoice.git
 cd mcp-einvoice
 cp .env.example .env
 # Remplir les credentials de votre PA (voir "Obtenir un compte sandbox")
